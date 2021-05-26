@@ -6,7 +6,7 @@ I used a standard cheap rc car for this project. To control the car I used an ra
 
 ## Images of the build process
 Here are some images illustrating the build process and wire connections on the car and connection board.
-![Connectionboard](connection_board.jpg)
+![Connectionboard](images/connection_board.jpg)
 ![Car](images/car1.jpg)
 ![Car](images/car2.jpg)
 ![Car](images/car3.jpg)
