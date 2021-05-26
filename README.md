@@ -3,14 +3,6 @@
 ## Overview
 I used a standard cheap rc car for this project. To control the car I used an raspberry Pi with distance sensors connected to Pi´s IO pins. To power the car the standard battery pack is used, to power the Pi an external battery pack with usb is used.
 
-
-## Images of the build process
-Here are some images illustrating the build process and wire connections on the car and connection board.
-![Connectionboard](images/connection_board.jpg)
-![Car](images/car1.jpg)
-![Car](images/car2.jpg)
-![Car](images/car3.jpg)
-
 ## Raspberry Pi code overview
 The code is developed in Python, gpiozero is used to control the distancesensor and motor.
 
@@ -22,3 +14,11 @@ Inside an continious foor loop I check the left and right distances for value <0
 In /test there are some Python test scripts.
 
 bilv1.py runs the car.
+
+## Images of the build process
+Here are some images illustrating the build process and wire connections on the car and connection board.
+![Connectionboard](images/connection_board.jpg)
+![Car](images/car1.jpg)
+![Car](images/car2.jpg)
+![Car](images/car3.jpg)
+
